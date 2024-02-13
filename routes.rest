@@ -1,0 +1,21 @@
+POST http://localhost:3333/videos
+Content-type: application/json
+
+{
+  "title": "teste",
+  "description": "descTeste",
+  "duration": 198
+}
+  
+
+###
+
+
+# POST http://localhost:3333/teste
+# ###
+
+# PUT http://localhost:3333/puti
+# ###
+
+# DELETE  http://localhost:3333/deleti
+# ###
